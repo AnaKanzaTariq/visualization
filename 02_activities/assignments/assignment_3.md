@@ -4,7 +4,17 @@
 
 ### Requirements:
 - We will finish this class by giving you the chance to use what you have learned in a practical context, by creating data visualizations from raw data. 
-- Choose a dataset of interest from the [City of Toronto’s Open Data Portal](https://www.toronto.ca/city-government/data-research-maps/open-data/) or [Ontario’s Open Data Catalogue](https://data.ontario.ca/). 
+- Choose a dataset of interest from the [City of Toronto’s Open Data Portal](https://www.toronto.ca/city-government/data-research-maps/open-data/) or [Ontario’s Open Data Catalogue](
+    
+). 
+<<<<<<< HEAD
+=======
+
+link to dataset:
+https://data.ontario.ca/dataset/ontario-bridge-training-program/resource/05baa124-4de9-4ce0-8fe2-78b14f7574fa
+
+
+>>>>>>> main
 - Using Python and one other data visualization software (Excel or free alternative, Tableau Public, any other tool you prefer), create two distinct visualizations from your dataset of choice.  
 - For each visualization, describe and justify: 
     > What software did you use to create your data visualization?
@@ -27,7 +37,7 @@
 
 - This assignment is intentionally open-ended - you are free to create static or dynamic data visualizations, maps, or whatever form of data visualization you think best communicates your information to your audience of choice! 
 - Total word count should not exceed **(as a maximum) 1000 words** 
- 
+    
 ### Why am I doing this assignment?:  
 - This ongoing assignment ensures active participation in the course, and assesses the learning outcomes: 
 * Create and customize data visualizations from start to finish in Python
